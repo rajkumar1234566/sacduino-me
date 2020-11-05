@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "Sacduino Boards",
+          "name": "Sacduino Me Boards",
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed",
@@ -43,7 +43,7 @@
       "tools":[]
     }
   ]
-}.com/roshanrobotics",
+},
       "email": "support@sacchidanandutech.com",
       "platforms":
       [
