@@ -13,8 +13,8 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Contributed",
-	  "url": "https://github.com/rajkumar1234566/sacduino-me/blob/main/Sacduino Me.zip?raw=true",
-          "archiveFileName": "Sacduino Me.zip",
+	  "url": "https://github.com/rajkumar1234566/sacduino-me/blob/main/sacduino.zip?raw=true",
+          "archiveFileName": "sacduino.zip",
           "checksum":"SHA-256:7AAF788DCE7492DC702FB0168687DE4DE6F8209FEDD4BD860D2FE1C4C75F9128",
           "size": "4151034",
           "boards": [
